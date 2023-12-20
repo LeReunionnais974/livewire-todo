@@ -1,4 +1,4 @@
-# Products CRUD with tests
+# Livewire todo
 
 Mini application CRUD de gestion des tâches. Elle utilise le package Livewire.
 
